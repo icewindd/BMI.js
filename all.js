@@ -40,7 +40,7 @@ function level(num){
 
     switch (numLevel) {
         case 0 :
-                return '<p>體重判斷: 體重過低</p>';
+                return '<p>體重判斷: 體重過輕</p>';
                 break;
         case 1 :
                 return '<p>體重判斷: 體重正常</p>';
