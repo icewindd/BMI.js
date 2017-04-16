@@ -46,10 +46,10 @@ function level(num){
                 return '<p>體重判斷: 體重正常</p>';
                 break;
         case 2 :
-                return '<p>體重判斷: 體重超重</p>';
+                return '<p>體重判斷: 體重過重</p>';
                 break;
         case 3 :
-                return '<p>體重判斷: 體重肥胖</p>';
+                return '<p>體重判斷: 體重超重</p>';
                 break;
         case 4 :
                 return '<p>資料不足，請重新輸入</p>';
